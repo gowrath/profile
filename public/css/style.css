@@ -2815,6 +2815,15 @@ h6 {
       overflow: hidden;
       border-radius: 5px; }
 
+
+      .k_img_item {
+        position: relative;
+        text-align: left;
+        overflow: hidden;
+        border-radius: 5px; 
+        color: black;
+      }  
+
     .h_gallery_item .g_img_item:before {
       content: "";
       width: 100%;
