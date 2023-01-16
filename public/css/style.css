@@ -1425,7 +1425,10 @@ h3 {
   font-size: 24px; }
 
 h4 {
-  font-size: 18px; }
+  font-size: 18px; 
+  color: black;
+}
+  
 
 h5 {
   font-size: 16px; }
