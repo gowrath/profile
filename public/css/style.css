@@ -45,6 +45,15 @@ Table of Content:
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 
+
+.break-word {
+  word-wrap: break-word;
+  display:block;
+  white-space:normal;
+
+  overflow-wrap: break-word;
+}
+
 .j-flex {
   display: -ms-flexbox !important;
   display: flex !important;
